@@ -72,3 +72,6 @@ carname = "Volvo"
 #txt = "My name is John Elton and I am {}"
 #print(txt.format(age))
 
+
+s = "123456789"
+print(s[-3:-1])
