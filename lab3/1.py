@@ -1,12 +1,12 @@
 class String:
     def __init__(self):
-        self.s = ''
+        self.S = ''
 
     def getString(self):
-        self.s = input()
+        self.S = input()
     
     def printString(self):
-        print(self.s.upper())
+        print(self.S.upper())
 
 S = String()
 S.getString()
