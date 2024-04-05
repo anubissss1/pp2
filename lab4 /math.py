@@ -24,3 +24,4 @@ import math
 length_base = int(input())
 height = int(input())
 print(height * length_base)
+
